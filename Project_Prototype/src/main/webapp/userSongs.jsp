@@ -41,8 +41,8 @@
             
             <table align="center" cellpadding = "5" cellspacing = "5" style = "background-color: white; border-radius: 10px; border: 2px; text-align: center;">
                 <tr>
-                    <th>Song Name</th>
-                    <th>Artist</th>
+                    <th style = "font-family: Montserrat;">Song Name</th>
+                    <th style = "font-family: Montserrat;">Artist</th>
                        
                     <% 
                     for(Song song : songs){
@@ -58,6 +58,13 @@
            
         </form>
         
+                <br></br>
+               
+                <form action="Explore" method="post">
+                    
+                    <center><input type ="submit" value="explore" style="font-family: Montserrat;"></center>
+                    
+                </form>
         
         
         

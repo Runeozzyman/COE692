@@ -73,10 +73,10 @@ public class Login extends HttpServlet {
             Logger.getLogger(Login.class.getName()).log(Level.SEVERE,null,ex);
             System.out.println("Error");
         }
-        
         return uf; 
     }
 
+    
     
     @Override
     public String getServletInfo() {
