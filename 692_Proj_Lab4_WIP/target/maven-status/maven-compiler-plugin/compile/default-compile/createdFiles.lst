@@ -1,0 +1,15 @@
+Login.class
+Frontend/frontend/Frontend.class
+Frontend/helper/SongsXML.class
+helper/userInfo.class
+Frontend/helper/Artist.class
+songs/Song.class
+Frontend/NewClass.class
+Frontend/helper/Song.class
+Explore.class
+Frontend/business/Business.class
+Extend.class
+add.class
+persistence/song_CRUD.class
+Frontend/frontend/Authenticate.class
+persistence/user_CRUD.class
